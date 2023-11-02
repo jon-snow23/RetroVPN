@@ -1,5 +1,14 @@
 # RetroVPN
 
+RETRO VPN is a robust and secure VPN application designed to provide users with a seamless and secure internet browsing experience. This application is built with a focus on user privacy and online security.
+
+# Features
+- Secure Connection: RETRO VPN provides a secure connection to the internet, protecting your data from potential threats and breaches.
+- Privacy Protection: With RETRO VPN, your online activities are completely private. Your IP address is hidden, ensuring your browsing habits remain confidential.
+- Global Server Access: RETRO VPN allows you to connect to servers worldwide. This feature enables you to access content that may be restricted in your geographical location.
+- User-Friendly Interface: RETRO VPN is designed with a simple and intuitive interface, making it easy for users to connect to a VPN server.
+- High-Speed Connection: Despite the high level of security, RETRO VPN does not compromise on speed. Users can enjoy a high-speed internet connection for browsing, streaming, and downloading.
+
 <table>
   <tr>
     <td>Home Page</td>
@@ -31,3 +40,5 @@
    
   </tr>
  </table>
+
+# Libraries and technologies used
